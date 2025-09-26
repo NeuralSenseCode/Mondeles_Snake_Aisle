@@ -1,0 +1,11 @@
+{
+  "folders": [
+    { "path": "." }
+  ],
+  "settings": {
+    "python.analysis.exclude": ["data"],
+    "files.exclude": {
+      "**/__pycache__": true
+    }
+  }
+}
